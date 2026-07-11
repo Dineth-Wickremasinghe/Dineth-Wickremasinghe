@@ -66,15 +66,6 @@ Distributed lead-generation platform bridging a React frontend on Cloudflare Pag
 
 ---
 
-## GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dineth-Wickremasinghe&show_icons=true&hide_border=true&theme=default&rank_icon=github&include_all_commits=true" height="150" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dineth-Wickremasinghe&layout=compact&hide_border=true&theme=default" height="150" alt="Top languages"/>
-</p>
-
----
-
 <p align="center">
   <sub>Open to data science & analytics internship opportunities in Sri Lanka · <a href="mailto:dinethwickremasinghe3@gmail.com">dinethwickremasinghe3@gmail.com</a></sub>
 </p>
